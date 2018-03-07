@@ -1,0 +1,110 @@
+cookifi.com:
+1. Home
+- Slider ( some images with info about the services ).
+- Search for catering services based on: place, number of people, and date
+
+- List of cuisine types with food images representing each cuisine type
+- List of Catering Service Types ( House Party, Birthday Celebration, Guests at Home, etc )
+- Explanation about how Cookifi works ( Select number of people and date, customize menu and payment process, and enjoy the food )
+- Reason to use cookifi: Hot and fresh food, Quick and easy booking,Variety of cuisine,Personalization as per preference,Customisation of menus,Quality assurance,Fit to your pocket,Hassle free experience ( also including a video )
+- Testimonials from customers
+- Media coverage
+2. Menus
+   - Menus divided in categories > View More
+     > More complete menus > select menu >  Order Process ( divided in 3 steps : Customize Menu, Add-ons, Order details, and Payment ). On the right side, there is a summary for the order that we made before with information such as: Date, Time, Number of People, and list of items. We can also change the name of the experience/menu we chose and set the number of vegetarian and non vegetarian people.
+
+     1. Customize Menu
+     Here we can customize menu by adding more foods and services to it ( divided in categories: soup, starter, main course, Rice, Bread, Salad, Desserts, Drinks, Disposables, Services, and Add-on ). We can also remove the foods/drinks we have added to our menu. While adding a new food/drink, we can also specify the number and search the food on a food list filtered by type of the foods, cuisines, and veg/non vegetarian
+
+     2. Add-on
+
+     There are some services we can add after customizing menus, such as Water bottle, flute glass, etc. We can add, specify number, and also remove
+
+     3. Order details
+     After customizing menu and adding add-ons, we need to specify our detail information by filling out the order form:
+     Name, Email, Mobile Number, Venue Type (Home, Club House,Party Hall, Outdoor, Office, and Other ), Locality, Full Address, Date and Time, and Special Requests. After that, we can choose to save or proceed to payment
+
+     4. Payment
+     The page will show the total amount that we need to pay, amount that has been paid, An option to choose whether we want to pay booking fee first or we want to pay full, and select the type of payment to use. We can also use coupon by entering it in the right side of the page.
+
+
+3. Cuisines
+   Like the section in home, this page contains of the food listed by categories (Continental, north Indian, Italian, Chinese, South Indian, Thai, and Mexican ). Select Some Food , then click Create Menu Button > go to order process. Click a Food > Detail of the Food containing the image of the food, the name of the food, and the description, there is also a button Create Menu, to create a menu, starting with that food. Click See more to see more complete food options of the specific cuisine > the page looks like the cuisine page, but more specific, limited to only one type of the cuisine.
+
+4. Corporate
+   It's like the menu page, but the menus included in it are handpicked to special occasion like Family Day, Working Lunches, and Product Lunches. There is also a contact us form with information: Name, Company, Email, and Mobile Number.
+
+5. Healthy
+   Healthy is a new Feature in Cookifi, featuring Kid's Special foods and office meals.
+
+6. Account
+   My Menus is a page containing a list of menus we have created. We can customize the menu or delete it.
+   My Orders lists order history
+   Refer and Earn, My coupon contains information about referral and rewards.
+7. Login and Register, there are only two options to login to the system: facebook and google login.
+8. Chat: there is also a chat box on the bottom right corner of every page that is used to send messages directly to the customer services.
+9. Footer:
+   Contact Us: Information about the company name, address, phone number, and email.
+   Quick Links: Highlight Blog,FAQ,Pricing,Cookifi Standards,Referral Program,Videos,Promotions,About Us,Payment Flow,Privacy Policy,Terms & Conditions
+   Planning a Party: Children's day House Party Birthday party Kitty Party Caterer House Warming Office Party Corporate Event
+
+  PRE WEDDING Engagement Bachelors Party Mehendi Sangeet Reception
+
+  OTHER SERVICES Bartender Crockery and Cutlery Decorators
+
+  CONNECT WITH US Facebook Twitter Instagram
+
+
+
+  FlatPebble.com > Catering Services
+  1. Filter
+     - by price
+     - sort by: Price ( asc and desc ), rating, newest
+     - Number of plates: package price, 30, 40, 50, 100
+     - Event: Party, wedding, ceremony
+     - Rate per plate: <Rs 100, Rs 100 - Rs 200, Rs 200-Rs 400, > Rs 400
+     - Type: Veg and Non-Veg
+     - Meal: Breakfast, Lunch, Dinner, Snack/Chat
+     - Cuisine: North Indian, South Indian
+  2. List of menus
+     - Food Image
+     - Price / number of plates ( exp: Rs 4050/30 Plates )
+     - Discount ( You save Rs 400 - 10% off )
+     - Name of the foods
+     - Number of items ready, Location
+     - Buttons: Like, Share, and Chat
+     - Rating
+  3. Search Box
+     - Type of Services and Location
+  4. Quick View
+     - Photos
+     - Price / number of plates ( exp: Rs 4050/30 Plates )
+     - Discount ( You save Rs 400 - 10% off )
+     - Name of the foods
+     - Number of items ready, Location
+     - Buttons: Like, Share, and Chat
+     - Description ( list of menu )
+     - Live chat
+     - Booking Button
+  5. Booking
+     - Select Date, fill phone number > Cart > Payment options > Payment Gateway
+       Cart:
+       Service Provider, Price, Payable advance now, Tax
+       Price Breakup
+       Total Price, payable advance, Tax
+
+       Payment Options:
+       Payu, Vis/Mastercard, Paypal, Net Banking, Cheque
+
+
+
+Housejoy.com ( now bookatiger.com )
+1. Home
+2. Cleaning Service categories
+3. About Us
+4. Benefits
+5. Quality
+6. Price
+7. How it works
+8. Login
+9. Select Country

@@ -1,0 +1,21 @@
+Tambahkan pilihan bayar parsial.
+pada kasir, pada list product > minimalisir penggunaan mouse
+Tambahkan input barcode dan kode produk untuk pencarian produk
+
+ada persetujuan supervisor pada saat barang tidak jadi dibeli
+fitur kembalikan barang
+
+Buat 3 versi tampilan: grid, list, dan table
+
+Dikasih semacam flag bahwa suatu barang sudah outdated
+tambah filter barang yang sudah outdated
+Tambah history untuk setiap barang ( termasuk price history untuk setiap product ) pada detail barang
+
+weight dan product description tidak perlu untuk retail
+
+sold per month dan stock di-emphasize, dibuat table karena butuh history/reportnya
+
+harga beli tidak dimasukkan dalam product, tapi diinput secara langsung saat purchase
+ada 3 jenis inventory:FIFO,LIFO,Average
+
+Tambahkan fitur import data untuk product
